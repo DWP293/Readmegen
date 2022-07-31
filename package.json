@@ -1,0 +1,22 @@
+{
+  "name": "projectnine",
+  "version": "1.0.0",
+  "description": "portfolio-generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DWP293/ReadmeGenerator.git"
+  },
+  "author": "Darryl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DWP293/ReadmeGenerator/issues"
+  },
+  "homepage": "https://github.com/DWP293/ReadmeGenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
